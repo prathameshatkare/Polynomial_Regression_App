@@ -33,7 +33,7 @@ The application uses the Position_Salaries dataset, which contains information a
 ### Steps
 1. Clone this repository or download the source code
    ```
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/prathameshatkare/Polynomial_Regression_App)
    cd salary-prediction-app
    ```
 
