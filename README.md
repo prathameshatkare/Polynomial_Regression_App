@@ -87,4 +87,4 @@ The model works by:
 [MIT License](LICENSE)
 
 ## Contact
-For questions or feedback, please contact [Your Name](mailto:prathmeshatkare07@gmail.com)
+For questions or feedback, please contact [Your Name]((https://ploynomial.streamlit.app/))
